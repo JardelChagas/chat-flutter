@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69119461263",
+    "firebase_url": "https://chatflutter-c4d7e.firebaseio.com",
+    "project_id": "chatflutter-c4d7e",
+    "storage_bucket": "chatflutter-c4d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69119461263:android:d493dad59230ffa5ea2dfa",
+        "android_client_info": {
+          "package_name": "jardel.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69119461263-jbkdvmhtgdve4unsp6utp7pcn69oe5bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jardel.chat",
+            "certificate_hash": "f2a6012a4009ce93d4c2b9cb91fd3f6f6d2d52cf"
+          }
+        },
+        {
+          "client_id": "69119461263-jfft66jgomlvs8l5kkldqe0dvi783ir0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZCKZsoZ5agELeSDj53Ekdzgbb6j_C7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69119461263-jfft66jgomlvs8l5kkldqe0dvi783ir0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
